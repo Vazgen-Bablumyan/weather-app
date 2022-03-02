@@ -61,6 +61,12 @@ h1.temp {
   margin-bottom: 0.4em;
 }
 
+.country-code {
+  margin-bottom: 5px;
+  font-size: 130%;
+  margin-top: 0;
+}
+
 .flex {
   display: flex;
   align-items: center;
